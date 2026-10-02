@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.webp" alt="newton banner" width="100%">
+</p>
+
 # newton
 
 A Claude Code engineering workflow. `/newton` matches a task to a playbook (bug fix, feature, refactor, investigation, perf, ship), copies its steps into a todo list, and runs them with verification at every step.
