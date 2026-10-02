@@ -1,0 +1,6 @@
+{
+  "name": "newton",
+  "description": "Emperor Newton's engineering workflow: playbooks for bug fixes, features, refactors, investigations, perf, and shipping PRs.",
+  "author": { "name": "newton-http" },
+  "license": "MIT"
+}
